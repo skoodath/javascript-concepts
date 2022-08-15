@@ -1,0 +1,7 @@
+$primary-color: #00010f;
+$secondary-color: #ffffff;
+$primary-bg: #000c33;
+
+@mixin common-style {
+  color: $primary-bg;
+}
